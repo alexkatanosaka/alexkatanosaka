@@ -3,7 +3,7 @@
 - 🌱 I’m currently developing for Web using Java and Spring<br>
 - 💬 Ask me about Java, Spring, SQL and I'll try to help as much as I can!<br><br><br>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/alexkatanosaka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexkatanosaka&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkatanosaka&layout=compact&langs_count=7&theme=merko"/>
