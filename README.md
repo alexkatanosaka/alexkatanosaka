@@ -1,7 +1,11 @@
-### Hi there, I'm Alex 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!;Alex+Katanosaka+Freitas;23+anos+de+idade;São+Paulo+-+SP;Desenvolvedor+Web+Java+Full+Stack)](https://git.io/typing-svg)
+##
 
 - 🌱 I’m currently developing for Web using Java and Spring<br>
 - 💬 Ask me about Java, Spring, SQL and I'll try to help as much as I can!<br><br><br>
+
+
+
 
 <div align="center">
   <a href="https://github.com/alexkatanosaka">
